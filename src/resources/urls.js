@@ -97,9 +97,9 @@ export default {
     github: "https://github.com/FurryMod/",
 
     /**
-     * FurryMod's basic API
+     * FurryMod's deno/basic API
      */
-    basicApi: "https://penguinmod-basic-api.derpygamer2142.com/",
+    basicApi: "https://dime-fm.tutel.page/",
 
     /**
      * The admin panel for the api
